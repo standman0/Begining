@@ -38,4 +38,5 @@ nav button{
 }
 nav button:hover{
     box-shadow: 0 0 15px 10px #76e9b4;
+    transform: scale(1.1);
 }
